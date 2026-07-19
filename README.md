@@ -251,4 +251,8 @@ https://www.linkedin.com/in/sarthaksrivastava-2358a12a1/
 
 ⭐ If you find this project useful, consider giving it a star!
 
+<<<<<<< HEAD
 ```bash
+=======
+```bash
+>>>>>>> 9b6bf86db039db9d60eaa20757be004e16b08aa8
