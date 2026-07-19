@@ -25,20 +25,20 @@ The main objectives of this project are:
 
 # 🛠️ Technologies Used
 
-| Technology | Purpose |
-|------------|---------|
-| MySQL | Database creation and SQL analysis |
-| SQL | Data extraction and business insights |
-| Power BI | Interactive dashboards and visualization |
-| Microsoft Excel | Data preparation and analysis |
-| Git & GitHub | Version control |
+| Technology | Purpose                                  |
+|------------|------------------------------------------|
+| MySQL      | Database creation and SQL analysis       |
+| SQL        | Data extraction and business insights    |
+| Power BI   | Interactive dashboards and visualization |
+| Microsoft Excel | Data preparation and analysis       |
+| Git & GitHub | Version control                        |
 
 ---
 
 ## 📂 Project Structure
 
+```
 Hospital-Management-SQL-PowerBI-Analytics
-
 │
 ├── Dataset
 │   ├── patients.csv
@@ -62,10 +62,9 @@ Hospital-Management-SQL-PowerBI-Analytics
 │   └── dashboard.png
 │
 ├── README.md
+│
 └── LICENSE
-
-
----
+```
 
 # 🗄️ Database Design
 
